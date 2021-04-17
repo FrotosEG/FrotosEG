@@ -7,7 +7,7 @@
  <br/> 👨‍💻 &nbsp; Técnico em informática IFC - Brusque
  <br/> :computer: &nbsp; Minha stack: C++, Java, C (Novas estão chegando :smirk:) 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games de FPS e RPG, também seriados em geral.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ErickGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-santos-5b22ab188/)]()
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ErickGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-garcia-1991a7210/)](https://www.linkedin.com/in/erick-garcia-1991a7210/)
   
 ## Github Stats
 
