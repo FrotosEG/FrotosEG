@@ -18,3 +18,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrotosEG&theme=tokyonight&card_width=495">
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-gomes&theme=tokyonight&card_width=495">
+</p>
