@@ -4,7 +4,7 @@
 I'm a back-end developer passionate about technology, product thinking, and continuous learning.  
 I enjoy building real-world solutions with clean architecture, solid engineering practices, and user-focused outcomes.
 
-- 🎓 **Computer Science student** at **UNIVALI**
+- 🎓 **B.Sc. in Computer Science - UNIVALI**
 - 🧑‍💻 **IT Technician** from **IFC - Brusque**
 - 💼 Currently working at **HAVAN** as a **Back-end Developer**
 - ⚙️ Main stack: **C#**, **.NET**, **SQL**, **PostgreSQL**, **Entity Framework**
